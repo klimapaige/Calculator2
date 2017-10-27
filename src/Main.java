@@ -38,7 +38,7 @@ public class Main extends ArrayList{
         int a =0;
         int round=0;
         int temp=0;
-
+//
         while(eq.size()>1){
             switch (round){
                 case 0:if(eq.get(a).equals("(")){
